@@ -1,7 +1,7 @@
 # Electron Gatsby Starter
 
 
-![electron gatsby](https://github.com/RandolphG/electron-gatsby-starter/blob/master/public/_electron_gatsby.gif?raw=true)
+![electron gatsby](https://github.com/RandolphG/electron-gatsby-starter/blob/master/_electron_gatsby.gif?raw=true)
 
 
 ### Installation process :
